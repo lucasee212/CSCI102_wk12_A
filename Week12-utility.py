@@ -23,3 +23,25 @@ def UpdateString(string, NewChar, index):
     for x in range(len(string)):
         output += string[x]
     return PrintOutput(output)
+"""
+                                #4
+#use function 2 and count how many times a string is in the file
+def FindWordCount():
+
+                                #5
+#3 arguments. list of players names, list of scores , and a name from list
+#output the name and their score.
+def ScoreFinder():
+
+                                #6
+#concatenate two lists and return as a single list
+def Union():
+
+                                #7
+#takes two lists and outputs the same variable (names) in them
+def intersection():
+
+                                #8
+#takes two lists and outputs variables in the second list, but not in the first
+def NotIn():
+"""
